@@ -13,7 +13,7 @@ Singlish to Sinhala Transliteration Accuracy Testing
 
 ## Repository Link
 
-https://github.com/DissanayakeDA/IT3040-Assignment-1-Transliteration-Testing
+https://github.com/DissanayakeDA/test_automation
 
 ## Website Tested
 
